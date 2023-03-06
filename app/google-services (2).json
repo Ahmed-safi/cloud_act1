@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "899789541571",
+    "project_id": "cloud-lab-6c238",
+    "storage_bucket": "cloud-lab-6c238.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899789541571:android:09367cf88e08c7bf929276",
+        "android_client_info": {
+          "package_name": "com.ahmed.cluodlab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899789541571-9cjqcbqng58cm2d20ek2eds22stbsavb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKdYrh7f8dCl_f0Zybbc132F_Z2hV9LRc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899789541571-9cjqcbqng58cm2d20ek2eds22stbsavb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
